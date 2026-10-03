@@ -1,0 +1,7 @@
+{
+  "latest": "1.6.0",
+  "minimum_supported": "1.0.0",
+  "url": "https://example.com/download",
+  "notes": "Fixes sync bug, adds dark mode.",
+  "released": "2026-10-02"
+}
