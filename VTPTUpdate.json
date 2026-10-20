@@ -8,11 +8,11 @@
     },
     {
       "type": "text",
-      "text": "This update adds a new <b>bake mode</b>, <i>much</i> faster imports and a few <color=#4FC3F7>quality-of-life</color> fixes. See the <a href=\"https://www.youtube.com/">full changelog</a> for details."
+      "text": "This update adds a new <b>bake mode</b>, <i>much</i> faster imports and a few <color=#4FC3F7>quality-of-life</color> fixes. See the <a href=\"https://www.youtube.com/\">full changelog</a> for details."
     },
     {
       "type": "image",
-      "url": "https://en.wikipedia.org/wiki/Cheeseburger"
+      "url": "https://upload.wikimedia.org/PATH/TO/IMAGE.jpg"
     },
     {
       "type": "separator"
@@ -23,7 +23,7 @@
     },
     {
       "type": "text",
-      "text": "Join our <a href=\"https://www.youtube.com/">Discord server</a> or read the docs below."
+      "text": "Join our <a href=\"https://www.youtube.com/\">Discord server</a> or read the docs below."
     },
     {
       "type": "button",
