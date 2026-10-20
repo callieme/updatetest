@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "title": "VTuber Performance Template Info",
+  "blocks": [
+    {
+      "type": "heading",
+      "text": "Lorem Ipsum"
+    },
+    {
+      "type": "text",
+      "text": "This update adds a new <b>bake mode</b>, <i>much</i> faster imports and a few <color=#4FC3F7>quality-of-life</color> fixes. See the <a href=\"https://www.youtube.com/">full changelog</a> for details."
+    },
+    {
+      "type": "image",
+      "url": "https://en.wikipedia.org/wiki/Cheeseburger"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "type": "heading",
+      "text": "Need help?"
+    },
+    {
+      "type": "text",
+      "text": "Join our <a href=\"https://www.youtube.com/">Discord server</a> or read the docs below."
+    },
+    {
+      "type": "button",
+      "text": "Open Documentation",
+      "url": "https://www.youtube.com/"
+    }
+  ]
+}
